@@ -1,5 +1,3 @@
-!pip install nflreadpy
-
 import nflreadpy as nfl
 
 import polars as pl
